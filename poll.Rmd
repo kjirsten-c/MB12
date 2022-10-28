@@ -1,0 +1,10 @@
+---
+title: "poll.md"
+author: "KC"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+1. 3
+2. R
+3. Windows 10

@@ -2,6 +2,9 @@
 
 The MB12 research project investigates how things can be calculated from other things using R. Read some nonsense below that has been copy-pasted soley for the purpose of filling up this document.
 
+## Kjirsten's section
+
+I am making a change which will be seen by EVERYONE.
 
 ## this is Ina's section!
 
